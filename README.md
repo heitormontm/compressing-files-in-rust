@@ -17,6 +17,7 @@ The program reads a source file, compresses it using a streaming approach, and w
 cargo run -- <source> <target>
 
 Example:
+
 cargo run -- input.txt output.gz
 
 ## Implementation Details
